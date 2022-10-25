@@ -45,7 +45,8 @@ rules:
     - never
   '@typescript-eslint/ban-ts-comment':
     - warn
-    - always
+    - ts-expect-error: allow-with-description
+
   '@typescript-eslint/no-floating-promises':
     - error
     - ignoreVoid: true
