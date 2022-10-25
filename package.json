@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-hjf",
+  "version": "0.0.1",
+  "description": "Personal eslint config",
+  "main": "index.js",
+  "author": "Harry Fitzgerald <harry@hjf.io>",
+  "license": "GPL-3.0",
+  "private": false,
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.41.0",
+    "eslint": "^8.26.0"
+  }
+}
